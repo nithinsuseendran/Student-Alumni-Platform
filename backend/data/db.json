@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "name": "Platform Admin",
+      "email": "admin@demo.com",
+      "password": "$2a$10$8XIYnFqtANQTEGdegf2V/.YACf9yzAHroRnmFWzoPl90awVv7eGAS",
+      "role": "admin",
+      "isEmailVerified": true,
+      "isActive": true,
+      "skills": [],
+      "achievements": [],
+      "_id": "qcbsu9027mozevmra",
+      "createdAt": "2026-05-10T06:48:12.790Z",
+      "updatedAt": "2026-05-10T06:48:12.791Z"
+    },
+    {
+      "name": "Sarah Connor",
+      "email": "alumni@demo.com",
+      "password": "$2a$10$8XIYnFqtANQTEGdegf2V/.YACf9yzAHroRnmFWzoPl90awVv7eGAS",
+      "role": "alumni",
+      "company": "Tech Solutions Inc.",
+      "designation": "Senior Software Engineer",
+      "domain": "Cloud Infrastructure",
+      "graduationYear": "2018",
+      "isApproved": true,
+      "isActive": true,
+      "skills": [
+        "AWS",
+        "Node.js",
+        "Docker",
+        "Kubernetes"
+      ],
+      "bio": "Enthusiastic cloud architect with 6 years of experience in scaling distributed systems.",
+      "achievements": [
+        "AWS Certified Solutions Architect",
+        "Speaker at TechConf 2024"
+      ],
+      "_id": "ynu3yip7bmozevmrb",
+      "createdAt": "2026-05-10T06:48:12.791Z",
+      "updatedAt": "2026-05-10T06:48:12.791Z"
+    },
+    {
+      "name": "John Doe",
+      "email": "student@demo.com",
+      "password": "$2a$10$8XIYnFqtANQTEGdegf2V/.YACf9yzAHroRnmFWzoPl90awVv7eGAS",
+      "role": "student",
+      "college": "Global Institute of Technology",
+      "course": "B.Tech CSE",
+      "year": "3rd",
+      "isActive": true,
+      "skills": [
+        "React",
+        "JavaScript",
+        "Tailwind"
+      ],
+      "bio": "Aspiring full-stack developer looking for guidance in modern web architectures.",
+      "_id": "ir5tnr0r4mozevmrb",
+      "createdAt": "2026-05-10T06:48:12.791Z",
+      "updatedAt": "2026-05-10T06:50:27.064Z",
+      "isOnline": true,
+      "lastSeen": "2026-05-10T06:50:27.063Z"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "Tech Solutions Inc.",
+      "description": "Looking for a passionate student to join our engineering team for a 6-month internship.",
+      "type": "internship",
+      "postedBy": "ynu3yip7bmozevmrb",
+      "location": "Remote",
+      "skills": [
+        "React",
+        "Node.js"
+      ],
+      "deadline": "2026-06-09T06:48:12.791Z",
+      "isActive": true,
+      "_id": "ctq2qvz88mozevmrb",
+      "createdAt": "2026-05-10T06:48:12.791Z",
+      "updatedAt": "2026-05-10T06:48:12.791Z"
+    }
+  ],
+  "events": [
+    {
+      "title": "Mastering System Design",
+      "description": "Join us for a deep dive into scalable system architectures and interview preparation.",
+      "type": "webinar",
+      "host": "ynu3yip7bmozevmrb",
+      "date": "2026-05-17T06:48:12.792Z",
+      "duration": "2 hours",
+      "platform": "Zoom",
+      "link": "https://zoom.us/j/demo",
+      "isApproved": true,
+      "status": "upcoming",
+      "registrations": [],
+      "_id": "i58mj7adumozevmrc",
+      "createdAt": "2026-05-10T06:48:12.792Z",
+      "updatedAt": "2026-05-10T06:48:12.792Z"
+    }
+  ],
+  "mentorships": [],
+  "messages": [],
+  "notifications": []
+}
