@@ -89,5 +89,4 @@ A premium, cinematic interaction platform built with the MERN stack (MongoDB, Ex
 ## 📜 License
 This project is licensed under the MIT License.
 
----
-Built with ❤️ by Antigravity AI
+
